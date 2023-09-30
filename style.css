@@ -1,0 +1,9 @@
+body{
+    background-color:#8CC0DE;
+}
+hr{
+    border-style:none;
+    border-top: 6px dotted #ffffff;
+    height: 1px;
+    width: 5%;
+}
